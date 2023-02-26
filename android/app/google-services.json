@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "884244239092",
+    "project_id": "apicalltrials",
+    "storage_bucket": "apicalltrials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884244239092:android:6f7b8dc30ec5df202944a1",
+        "android_client_info": {
+          "package_name": "com.example.apicalltutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884244239092-cquhbu9ltje2uvs00gsflovacdgpe9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCsdeP6d7vJGuF8RcGFj4DpphzT8t1dLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884244239092-cquhbu9ltje2uvs00gsflovacdgpe9jb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884244239092-a5311oe7a4mb2ce5f688nu2taickhiv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apicalltutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
